@@ -6,7 +6,7 @@ Mooi, want dat gaan we spelen in deze README file om te oefenen met GIT 😎 We 
 ### Spelregels
 We hanteren de standaard spelregels. Die ken je vast al, maar hoe spelen we dit spel dan met GIT? Als volgt:
 - Beslis samen wie er mag beginnen
-- Voor elk spel maken we een nieuwe file aan. Maak een kopie van het bestand ```spel-template-simple.md``` en noem deze: ```spel-1.md```
+- Voor elk spel maken we een nieuwe file aan. Maak een kopie van het bestand ```templates/spel-template-simple.md``` en noem deze: ```spellen/spel-1.md```
 - Speler ❎ vult de namen in, kiest een vakje en 'pushed' naar GIT
 - Speler ⏺️ 'fetched' de nieuwe versie, kiest een vakje en 'pushed' naar GIT
 - Speler ❎ 'fetched' de nieuwe versie, kiest een vakje en 'pushed' naar GIT
