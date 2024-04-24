@@ -11,3 +11,26 @@ We hanteren de standaard spelregels. Die ken je vast al, maar hoe spelen we dit 
 - Speler O 'fetched' de nieuwe versie, kiest een vakje en 'pushed' deze file
 - Speler X 'fetched' de nieuwe versie, kiest een vakje en 'pushed' deze file
 - Speel net zolang tot er een winnaar is of er gelijkspel kan worden uitgeroepen
+
+### Voorbeeld
+> Een voorbeeld van een spelletje dat meneer Stalman en ik tegen elkaar hebben gespeeld.
+
+### Spelers
+- Speler X = Mark
+- Speler O = Chris
+
+### Bord
+| - | 0 | 1 | 2 |
+|---|---|---|---|
+| 0 | X | X | O |
+| 1 |   | X |   |
+| 2 | O | O | X |
+
+### Log
+1. Speler X plaatst [0,0]
+2. Speler O plaatst [2,0]
+3. Speler X plaatst [0,1]
+4. Speler O plaatst [0,2]
+5. Speler X plaatst [1,1]
+6. Speler O plaatst [2,1]
+7. Speler X plaatst [2,2] en **WINT!**
