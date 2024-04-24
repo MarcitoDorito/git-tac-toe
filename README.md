@@ -15,4 +15,4 @@ We hanteren de standaard spelregels. Die ken je vast al, maar hoe spelen we dit 
 ### Veel plezier met spelen! 🎉
 
 ## Voorbeeld
-> Een voorbeeld van een spelletje dat meneer Stalman en ik tegen elkaar hebben gespeeld.
+> Bekijk ```spel-0-voorbeeld.md``` voor een spelletje dat meneer Stalman en ik tegen elkaar hebben gespeeld.
